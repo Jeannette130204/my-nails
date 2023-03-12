@@ -10,6 +10,9 @@ export default function NavBar(){
                 <Link to="/nails"><strong>All Nails</strong></Link>
             </li>
             <li>
+                <Link to="/nails/new"><strong>Add New Set</strong></Link>
+            </li>
+            <li>
                 <Link to="/materials"><strong>Materials</strong></Link>
             </li>
         </ul>
